@@ -24,12 +24,15 @@ body {
   color: rgb(0, 0, 0);
 }
 
-/**change .button to #cancel-button and remove font size**/
-
 .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
-  font-size: 14px;
+  font-size: 10px;
 }
 
-/**Remove div.text to fix thin divs and remove color redundancy**/
+/**Changelog
+  remove .para size 22 to fix .small-para
+  change .button to #cancel-button and remove font size to fix buttons
+  remove div.text and color redundancy to fix thin divs
+  change .child font size to fix smaller child div
+  **/
