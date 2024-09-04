@@ -10,7 +10,6 @@ body {
 
 .small-para {
   font-size: 14px;
-  font-weight: 800;
 }
 
 .confirm {
@@ -35,4 +34,5 @@ body {
   change .button to #cancel-button and remove font size to fix buttons
   remove div.text and color redundancy to fix thin divs
   change .child font size to fix smaller child div
+  remove font-weight redundancy from .small-para
   **/
