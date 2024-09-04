@@ -32,8 +32,4 @@ body {
   font-size: 14px;
 }
 
-div.text {
-  color: rgb(0, 0, 0);
-  font-size: 22px;
-  font-weight: 100;
-}
+/**Remove div.text to fix thin divs and remove color redundancy**/
