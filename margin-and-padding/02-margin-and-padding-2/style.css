@@ -34,6 +34,9 @@ div {
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  margin: auto;
+  padding: 8px 24px 8px 24px;
 }
 
 /* Changelog
@@ -43,6 +46,7 @@ button {
 - Add 8px padding to .title
 - Add padding to .content
 - Add padding to .button-container and center everything
+- Center big button on its own line & add padding
 
 
 
