@@ -3,6 +3,10 @@ body {
   font-family: sans-serif;
 }
 
+div {
+  border: 8px solid white;
+}
+
 .card {
   width: 400px;
   background: #fff;
@@ -25,3 +29,11 @@ button {
   background: white;
   border: 1px solid #eee;
 }
+
+/* Changelog
+- Add div border to get 8px white outline around card
+
+
+
+
+*/
