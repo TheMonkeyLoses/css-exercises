@@ -27,6 +27,8 @@ div {
 
 .button-container {
   background: #e3f4ff;
+  padding: 8px;
+  text-align: center;
 }
 
 button {
@@ -40,6 +42,7 @@ button {
 - Adjust .title font size
 - Add 8px padding to .title
 - Add padding to .content
+- Add padding to .button-container and center everything
 
 
 
