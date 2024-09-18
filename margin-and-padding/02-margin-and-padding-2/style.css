@@ -17,6 +17,7 @@ div {
   background: #e3f4ff;
   font-size: 16px;
   padding: 8px;
+  margin: 8px;
 }
 
 .content {
@@ -47,6 +48,7 @@ button {
 - Add padding to .content
 - Add padding to .button-container and center everything
 - Center big button on its own line & add padding
+- Adjust .title margin for alignment
 
 
 
