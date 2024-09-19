@@ -24,7 +24,7 @@ div {
 .content {
   background: #e3f4ff;
   margin-bottom: 8px;
-  padding: 16px 8px 16px 8px;
+  padding: 16px 8px;
 }
 
 .button-container {
@@ -51,6 +51,7 @@ button {
 - Center big button on its own line & add padding
 - Adjust .title margin for alignment
 - Add 8px padding to .card
+- Remove padding redundancy on .content
 
 
 
