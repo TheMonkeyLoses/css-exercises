@@ -11,6 +11,7 @@ div {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  padding: 8px;
 }
 
 .title {
@@ -49,6 +50,7 @@ button {
 - Add padding to .button-container and center everything
 - Center big button on its own line & add padding
 - Adjust .title margin for alignment
+- Add 8px padding to .card
 
 
 
